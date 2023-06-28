@@ -1,4 +1,5 @@
 Accessibility,可访问性
+Asynchronous,异步的
 Browser caching,浏览器缓存
 Browser compatibility,浏览器兼容性
 Browser DevTools,浏览器开发工具
@@ -8,6 +9,7 @@ build configurations,构建配置
 Build tools,构建工具
 Code refactoring,代码重构
 Component-based development,基于组件的开发
+Concurrent,并发的
 Cross-origin resource sharing (CORS),跨域资源共享
 Cross-site request forgery (CSRF),跨站请求伪造
 Cross-site scripting (XSS),跨站脚本攻击
@@ -15,6 +17,7 @@ CSS animations,CSS动画
 CSS transitions,CSS过渡效果
 data binding,数据绑定
 data visualization,数据可视化
+decouple,解耦，使分离
 Flexbox,弹性盒子布局
 Form validation,表单验证
 Front-end architecture,前端架构
@@ -41,6 +44,7 @@ SEO optimization,SEO优化
 Semantic markup,语义化标记
 Single-page application frameworks,单页应用程序框架
 State management,状态管理
+synchronous,同步的
 Task runners,任务管理器
 User interface (UI),用户界面
 User experience,用户体验

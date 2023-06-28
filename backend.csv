@@ -1,9 +1,13 @@
 Authentication,认证
 Backfill,回填
+Cluster,集群
 Database,数据库
 Data storage,数据存储
+dead letter queue,死信队列
 Decryption,解密
+elasticity,弹性
 Encryption,加密
+failback,自动恢复
 Firewall,防火墙
 Framework,框架
 Infrastructure engineer,架构师
@@ -15,6 +19,9 @@ Permission,权限
 Pipeline,管道
 Relational database,关系型数据库
 Scalability,扩展性
+scheduler,时间调度程序
 Serialize,序列化
 Single thread,单线程
+threshold,阈值
+traceability,可追溯性
 Version control,版本控制
