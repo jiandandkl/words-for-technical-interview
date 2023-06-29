@@ -19,6 +19,7 @@
 ### 使用
 
 方法一: 可以在欧陆 app-学习-搜索课本: words-for-engineer
+
 方法二: clone 项目使用 fron-end 或者 backend 的内容,在 [http://my.eudic.net/](http://my.eudic.net/) 上传自己的课本
 
 ### 贡献

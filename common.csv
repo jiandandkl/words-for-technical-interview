@@ -1,35 +1,71 @@
-ampersand,和
-angle brackets,尖括号
-asterisk,星号
+Ampersand,和
+Angle brackets,尖括号
+Annotation,注释
+Asterisk,星号
 Architecture,架构
-backslash,反斜线
-colon,冒号
-comma,逗号
-constant,常量
-curly brackets,花括号
-dash,破折号
-double quotation mark,双引号
-efficiency,效率
-equal,等于号
-exclamation mark,感叹号
-expression,表达式
-hash,井号
-greater than,大于号
-less than,小于号
-minus,减号
-notation,注释
+Backslash,反斜线
+Binary,二进制的
+Brainstorming,脑暴
+Breakpoint,断点
+Built-in,内置的
+Certificate,(数字)证书
+Certificate Authority,证书认证机构
+Change Reference to Value,将引用对象改为值对象
+Colon,冒号
+Comcurrency,并发
+Comma,逗号
+Compatibility,兼容性
+Constant,常量
+Constructor,构造函数
+Container,容器
+Cross Domain,跨域
+Curly brackets,花括号
+Dash,破折号
+Derives from,继承
+Double quotation mark,双引号
+Efficiency,效率
+Equal,等于号
+Exclamation mark,感叹号
+Expression,表达式
+Greater than,大于号
+Hash,井号
+Iterable,可迭代的
+Iteration,迭代
+Iterator,迭代器
+Less than,小于号
+License,许可证
+Lifetime,生命周期
+Minus,减号
+Notation,注释
 Optimize,优化
-parenthesis,圆括号
-percent,百分号
-plus,加号
-question mark,问号
-scope,作用域
-semicolon,分号
-single quotation mark,单引号
-slash,斜线
-square brackets,方括号
-tilde,波浪号
-underscore,下划线
-takeaway,收获
-traversal,遍历
-vice versa,反之亦然
+Parenthesis,圆括号
+Percent,百分号
+Plus,加号
+Protocol,协议
+Prototype,原型
+Proxy,代理
+Quality assurance(QA),质量保证
+Question mark,问号
+Real-time,即时
+Recursion,递归
+Redundancy,冗余
+Redundant,冗余的
+Refactor,重构
+Remote Procedure Call(RPC),远程过程调用
+Scope,作用域
+Semicolon,分号
+Signature,签名
+Single quotation mark,单引号
+Single Sign-On(SSO),单点登录
+Singleton Pattern,单例模式
+Slash,斜线
+Square brackets,方括号
+Staging,过渡(环境)
+Stateless,无状态
+Syntactic sugar,语法糖
+Test-Driven Development(TDD),测试驱动开发
+Tilde,波浪号
+Underscore,下划线
+Takeaway,收获
+Traversal,遍历
+Vice versa,反之亦然
