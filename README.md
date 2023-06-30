@@ -24,7 +24,7 @@
 
 ### 例句
 
-比如 attach(附上),单独看这个单词可能不知道它的使用场景,但在 React 中还是比较高频,所以就在单词释义中加上例句更利于使用,如: `In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered`
+单词在技术面试过程中的使用场景,如 attach, `In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered`
 
 ### 贡献
 
