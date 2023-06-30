@@ -19,6 +19,7 @@ CSS transitions,CSS过渡效果
 Data binding,数据绑定
 Data visualization,数据可视化
 Decouple,解耦，使分离
+Delegate,委托 [React delegates events to document]
 Flexbox,弹性盒子布局
 Form validation,表单验证
 Front-end architecture,前端架构
@@ -31,6 +32,8 @@ Front-end performance,前端性能
 Front-end security vulnerabilities,前端安全漏洞
 Grid systems,网格系统
 Lifecycle methods,生命周期方法
+Micro task,微任务
+Macro task,宏任务
 Media queries,媒体查询
 Module bundlers,模块打包工具
 Package managers,包管理器
