@@ -19,7 +19,7 @@ CSS transitions,CSS过渡效果
 Data binding,数据绑定
 Data visualization,数据可视化
 Decouple,解耦，使分离
-Delegate,委托 [React delegates events to document]
+Delegate,委托 [React delegates events to document: React 将事件委托到 document 上]
 Flexbox,弹性盒子布局
 Form validation,表单验证
 Front-end architecture,前端架构

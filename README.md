@@ -22,9 +22,14 @@
 
 方法二: clone 项目使用 fron-end 或者 backend 的内容,在 [http://my.eudic.net/](http://my.eudic.net/) 上传自己的课本
 
+### 例句
+
+比如 Delegate(委托),单独看这个单词可能不知道它的使用场景,但在 React 中还是比较高频,所以就在单词释义中加上例句更利于使用如: `React delegates events to document`
+
 ### 贡献
 
 - 如发现有错误或更合适的翻译,欢迎 pr
 - 请按照单词首字母顺序进行更新
+- 使用中括号包裹例句
 
 > coommon 文件是前后端都会用到的词汇
