@@ -1,5 +1,6 @@
 Accessibility,可访问性
 Asynchronous,异步的
+attach,附上 [In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered]
 Browser caching,浏览器缓存
 Browser compatibility,浏览器兼容性
 Browser DevTools,浏览器开发工具
@@ -19,7 +20,6 @@ CSS transitions,CSS过渡效果
 Data binding,数据绑定
 Data visualization,数据可视化
 Decouple,解耦，使分离
-Delegate,委托 [React delegates events to document: React 将事件委托到 document 上]
 Flexbox,弹性盒子布局
 Form validation,表单验证
 Front-end architecture,前端架构
@@ -30,6 +30,7 @@ Front-end deployment strategies,前端部署策略
 Front-end frameworks,前端框架
 Front-end performance,前端性能
 Front-end security vulnerabilities,前端安全漏洞
+Event Delegation, 事件委托
 Grid systems,网格系统
 Lifecycle methods,生命周期方法
 Micro task,微任务
