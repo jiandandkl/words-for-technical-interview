@@ -8,6 +8,7 @@ Browser extensions,浏览器扩展
 Browser rendering,浏览器渲染
 Build configurations,构建配置
 Build tools,构建工具
+Bubbling,冒泡 [What is event bubbling? Event bubbling is the process where an event occurring on a nested element is also triggered on its parent elements, propagating upwards through the DOM tree.]
 Code refactoring,代码重构
 Component-based development,基于组件的开发
 Concurrent,并发的
@@ -37,6 +38,7 @@ Micro task,微任务
 Macro task,宏任务
 Media queries,媒体查询
 Module bundlers,模块打包工具
+Optimise,优化 [React uses fiber to optimize user experience]
 Package managers,包管理器
 Performance metrics,性能指标
 Performance monitoring,性能监测

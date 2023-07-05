@@ -16,15 +16,15 @@
 
    ![](/images/userexperience.jpeg)
 
+### 例句
+
+学了某东方的雅思课程,里面有提到单词要给出考点,觉得挺有道理的,有些词单个看的话不知道实际使用场景,所以这里会尽量把例句加进来,比如 attach, `In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered`
+
 ### 使用
 
 方法一: 可以在欧陆 app-学习-搜索课本: words-for-engineer
 
 方法二: clone 项目使用 fron-end 或者 backend 的内容,在 [http://my.eudic.net/](http://my.eudic.net/) 上传自己的课本
-
-### 例句
-
-单词在技术面试过程中的使用场景,如 attach, `In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered`
 
 ### 贡献
 
