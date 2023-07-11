@@ -1,6 +1,7 @@
 Accessibility,可访问性
 Asynchronous,异步的
 attach,附上 [In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered]
+Binary,二进制 [HTTP/2 uses a binary format for data transmission, in contrast to HTTP/1.x, which uses text formats.]
 Browser caching,浏览器缓存
 Browser compatibility,浏览器兼容性
 Browser DevTools,浏览器开发工具
@@ -9,6 +10,7 @@ Browser rendering,浏览器渲染
 Build configurations,构建配置
 Build tools,构建工具
 Bubbling,冒泡 [What is event bubbling? Event bubbling is the process where an event occurring on a nested element is also triggered on its parent elements, propagating upwards through the DOM tree.]
+Closure,闭包 [Closures are functions that can read variables inside other functions]
 Code refactoring,代码重构
 Component-based development,基于组件的开发
 Concurrent,并发的
@@ -38,6 +40,7 @@ Micro task,微任务
 Macro task,宏任务
 Media queries,媒体查询
 Module bundlers,模块打包工具
+Negotiation,协商;谈判 [The negotiation cache uses Etag as the unique id to identify the file]
 Optimise,优化 [React uses fiber to optimize user experience]
 Package managers,包管理器
 Performance metrics,性能指标
