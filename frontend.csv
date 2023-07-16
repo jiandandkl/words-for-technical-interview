@@ -10,7 +10,7 @@ Browser rendering,浏览器渲染
 Build configurations,构建配置
 Build tools,构建工具
 Bubbling,冒泡 [What is event bubbling? Event bubbling is the process where an event occurring on a nested element is also triggered on its parent elements, propagating upwards through the DOM tree.]
-Closure,闭包 [Closures are functions that can read variables inside other functions]
+Closure,闭包 [what is closure? Closure is a function that returns another function and can read variables inside other functions.]
 Code refactoring,代码重构
 Component-based development,基于组件的开发
 Concurrent,并发的
@@ -22,6 +22,7 @@ CSS animations,CSS动画
 CSS transitions,CSS过渡效果
 Data binding,数据绑定
 Data visualization,数据可视化
+Decorator Pattern,装饰器模式
 Decouple,解耦，使分离
 Flexbox,弹性盒子布局
 Form validation,表单验证
@@ -35,6 +36,8 @@ Front-end performance,前端性能
 Front-end security vulnerabilities,前端安全漏洞
 Event Delegation, 事件委托
 Grid systems,网格系统
+Hoist,提升 [let and const are hoisted too but in the temporary dead zone]
+Ierate over,遍历
 Lifecycle methods,生命周期方法
 Micro task,微任务
 Macro task,宏任务
@@ -47,12 +50,15 @@ Performance metrics,性能指标
 Performance monitoring,性能监测
 Performance optimization,性能优化
 Progressive enhancement,渐进增强
+prototype,原型 [what is prototype chain? Each object has a private property which holds a link to another object called its prototype. That prototype object has a prototype of its own, and so on until an object is reached with null as its prototype]
+Publish-Subscribe Pattern,发布订阅模式 [The many-to-many relationship and decoupling of the Publish-Subscribe Pattern is more scalable and flexible than the Observer Pattern]
 Responsive images,响应式图片
 Responsive web design,响应式网页设计
 Search Engine Optimization(SEO),搜索引擎优化
 SEO optimization,SEO优化
 Semantic markup,语义化标记
 Single-page application frameworks,单页应用程序框架
+Singleton Pattern,单例模式 
 State management,状态管理
 Synchronous,同步的
 Task runners,任务管理器
