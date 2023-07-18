@@ -1,5 +1,6 @@
 Accessibility,可访问性
 Asynchronous,异步的
+Arrow functions,箭头函数 [An arrow function’s this points to the this value into the scope the arrow function is defined within.]
 attach,附上 [In React 17, React will no longer attach event handlers at the document level. Instead, it will attach them to the root DOM container into which your React tree is rendered]
 Binary,二进制 [HTTP/2 uses a binary format for data transmission, in contrast to HTTP/1.x, which uses text formats.]
 Browser caching,浏览器缓存
@@ -34,7 +35,8 @@ Front-end deployment strategies,前端部署策略
 Front-end frameworks,前端框架
 Front-end performance,前端性能
 Front-end security vulnerabilities,前端安全漏洞
-Event Delegation, 事件委托
+Event Delegation,事件委托 
+Event loop,事件循环 [The event loop first processes all the tasks in the current event queue. If the queue is empty, it checks if there are any pending microtasks to be executed. Once all the microtasks are processed, the event loop moves on to the next event queue, which typically contains macro tasks such as timer callbacks and I/O operations.]
 Grid systems,网格系统
 Hoist,提升 [let and const are hoisted too but in the temporary dead zone]
 Ierate over,遍历
