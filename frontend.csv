@@ -11,6 +11,8 @@ Browser rendering,浏览器渲染
 Build configurations,构建配置
 Build tools,构建工具
 Bubbling,冒泡 [What is event bubbling? Event bubbling is the process where an event occurring on a nested element is also triggered on its parent elements, propagating upwards through the DOM tree.]
+Cascading Style Sheets(CSS),层叠样式表
+Circular dependencies,循环依赖 [In ES6 modules, dependencies are resolved statically. When a circular dependency is encountered, the JavaScript engine handles it efficiently by using cahce.]
 Closure,闭包 [what is closure? Closure is a function that returns another function and can read variables inside other functions.]
 Code refactoring,代码重构
 Component-based development,基于组件的开发
@@ -18,7 +20,6 @@ Concurrent,并发的
 Cross-origin resource sharing (CORS),跨域资源共享
 Cross-site request forgery (CSRF),跨站请求伪造
 Cross-site scripting (XSS),跨站脚本攻击
-Cascading Style Sheets(CSS),层叠样式表
 CSS animations,CSS动画
 CSS transitions,CSS过渡效果
 Data binding,数据绑定
@@ -61,6 +62,7 @@ SEO optimization,SEO优化
 Semantic markup,语义化标记
 Single-page application frameworks,单页应用程序框架
 Singleton Pattern,单例模式 
+Spread operator,扩展运算符
 State management,状态管理
 Synchronous,同步的
 Task runners,任务管理器
